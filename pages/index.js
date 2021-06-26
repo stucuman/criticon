@@ -7,7 +7,7 @@ const Home = () => (
     </Head>
     
   <div>
-    <h1>funciona</h1>
+    <h1>funciona</h1></div>
 
     <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucumán</a></h3>
      
