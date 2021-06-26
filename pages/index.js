@@ -72,7 +72,7 @@ const Home = () => (
 <h3><a href="https://demo-git-master-stucuman.vercel.app/">app</a></h3>
 <h3><a href="https://demo-stucuman.vercel.app/">vercell</a></h3>
 <h3><a href="https://tucumann.oss-ap-northeast-1.aliyuncs.com/index.html">alibababba</a></h3>
-  </div>
+  
 
     <style jsx>{`
       :global(html, body) {
