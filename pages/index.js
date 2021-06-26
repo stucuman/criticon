@@ -10,8 +10,7 @@ const Home = () => (
     <h1>funciona</h1>
 
     <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucumán</a></h3>
-      <h3><a href="https://lacritica.com.ar/2020/06/25/ana-pedraza-tucumana-belleza/">Ana Pedraza</a></h3>
-  
+     
 
 
       <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
@@ -20,15 +19,8 @@ const Home = () => (
  
 
 
-<h3><a href="http://lacritica.com.ar">noticias de tucuman</a></h3>
-<h3><a href="https://lacritica.com.ar/clima-en-tucuman/">Clima en Tucuman</a></h3>
-
 <h3><a href="https://lacritica.com.ar/2020/02/03/ana-pedraza-la-periodista-tucumana-que-cautiva-con-su-carisma-y-aman-en-buenos-aires/"> ana pedraza</a></h3>
-<h3><a href="https://lacritica.com.ar/clima-en-tucuman/">clima en Tucuman</a></h3>
-<h3><a href="https://lacritica.com.ar/quiniela-de-tucuman">quiniela de tucuman</a></h3>
-<h3><a href="https://lacritica.com.ar/2020/04/27/es-la-senora-poron-el-tucu-lopez-mostro-de-mas-y-ardio-twitter/">tucu lopez</a></h3>
-<h3><a href="https://lacritica.com.ar/2020/01/27/silvina-saleme-posleman-le-prendio-fuego-a-los-cerros-tucumanos-con-fotos-super-hot/">silvina saleme posleman</a></h3>
-<h3><a href="https://lacritica.com.ar/2020/02/19/jorgelina-zalazar-vs-gladys-la-bomba-tucumana-que-susto-que-se-llevo-la-video/?swcfpc=1">jorgelina zalazar</a></h3>
+
 
 <h3><a href="http://telefonosatencioncliente.xyz">Telefonos de atencion al cliente</a></h3>
 <h3><a href="https://tucumaneando.netlify.app">netlify</a></h3>
